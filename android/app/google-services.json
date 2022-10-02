@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518325314129",
+    "project_id": "rn-typescript-99608",
+    "storage_bucket": "rn-typescript-99608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518325314129:android:e142236b8c4507773b4e70",
+        "android_client_info": {
+          "package_name": "com.awesometsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518325314129-qhee2v87s485t84r4v781bhurii1gqko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj3VJyTWGppZQksjZ3hTiWtey3AHUk4lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518325314129-qhee2v87s485t84r4v781bhurii1gqko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
